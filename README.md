@@ -1,21 +1,22 @@
 # Buenas! 👋
 Soy Lautaro Rizzitano, estudiante de Ingeniería en Sistemas en la UTN FRBA
 
-## Materias 🎓 16/43 ![](https://geps.dev/progress/37)
+## Materias 🎓 20/43 ![](https://geps.dev/progress/47)
 - 1° Año:  8/8  ![](https://geps.dev/progress/100)
 - 2° Año:  8/8  ![](https://geps.dev/progress/100)
-- 3° Año:  0/8  ![](https://geps.dev/progress/0)
-- 4° Año:  0/10  ![](https://geps.dev/progress/0)
+- 3° Año:  2/8  ![](https://geps.dev/progress/25)
+- 4° Año:  2/10  ![](https://geps.dev/progress/20)
 - 5° Año:  0/9  ![](https://geps.dev/progress/0)
 
-## Lenguajes 1️⃣0️⃣0️⃣1️⃣
+## Lenguajes 1️⃣0️⃣1️⃣0️⃣
 - C / C++
 - Arduino
 - Python
+- Java
 - HTML
 - CSS
 - JS
-- Java
+- SQL / T-SQL
 - Haskell
 - Prolog
 
