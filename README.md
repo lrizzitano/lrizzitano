@@ -1,10 +1,10 @@
 # Buenas! 👋
-Soy Lautaro Rizzitano, estudiante de Ingeniería en Sistemas en la UTN FRBA
+Soy Lautaro Rizzitano, estudiante de Ingeniería en Sistemas en la UTN FRBA.
 
-## Materias 🎓 20/43 ![](https://geps.dev/progress/47)
+## Materias 🎓 20/43 ![](https://geps.dev/progress/60)
 - 1° Año:  8/8  ![](https://geps.dev/progress/100)
 - 2° Año:  8/8  ![](https://geps.dev/progress/100)
-- 3° Año:  2/8  ![](https://geps.dev/progress/25)
+- 3° Año:  8/8  ![](https://geps.dev/progress/100)
 - 4° Año:  2/10  ![](https://geps.dev/progress/20)
 - 5° Año:  0/9  ![](https://geps.dev/progress/0)
 
@@ -20,4 +20,4 @@ Soy Lautaro Rizzitano, estudiante de Ingeniería en Sistemas en la UTN FRBA
 - Haskell
 - Prolog
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrizzitano&layout=compact&theme=gruvbox)
+![Top Languages](./profile/top-langs.svg)
